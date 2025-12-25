@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "RINGO",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-25T01:26:46.190442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ringo Buys a Rifle",
+      "artist": "The Dead Milkmen",
+      "has_synced": true,
+      "path": "select/01_Ringo_Buys_a_Rifle_The_Dead_Milkmen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ringo - Remastered",
+      "artist": "Adriano Celentano",
+      "has_synced": true,
+      "path": "select/02_Ringo_-_Remastered_Adriano_Celentano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Master Ringo",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/03_Master_Ringo_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wareta Ringo",
+      "artist": "Saki Watanabe (CV: Risa Taneda)",
+      "has_synced": false,
+      "path": "select/04_Wareta_Ringo_Saki_Watanabe_(CV__Risa_Taneda).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ringo no Uta",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/05_Ringo_no_Uta_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ring My Bell (Ringo Bell Mix)",
+      "artist": "Anita Ward",
+      "has_synced": false,
+      "path": "select/06_Ring_My_Bell_(Ringo_Bell_Mix)_Anita_Ward.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ring My Bell [Ringo My Bell Mix]",
+      "artist": "Anita Ward",
+      "has_synced": false,
+      "path": "select/07_Ring_My_Bell_[Ringo_My_Bell_Mix]_Anita_Ward.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ringo No Uta",
+      "artist": "Aurelio Voltaire",
+      "has_synced": true,
+      "path": "select/08_Ringo_No_Uta_Aurelio_Voltaire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Run To Me (feat. Ringo Starr, Joseph Williams)",
+      "artist": "Steve Lukather feat. Joseph Williams & Ringo Starr",
+      "has_synced": false,
+      "path": "select/09_Run_To_Me_(feat._Ringo_Starr,_Joseph_Williams)_Steve_Lukather_feat._Joseph_Williams_&_Ringo_Starr.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Roll Over Beethoven (With Ringo Starr, John Mayer & Jon Brion)",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/10_Roll_Over_Beethoven_(With_Ringo_Starr,_John_Mayer_&_Jon_Brion)_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Night (feat. Ringo Starr) [Run Through]",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/11_Beautiful_Night_(feat._Ringo_Starr)_[Run_Through]_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ringo",
+      "artist": "Lorne Greene",
+      "has_synced": false,
+      "path": "select/12_Ringo_Lorne_Greene.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ringo? Yep! - Live At The BBC For \"From Us To You Say The Beatles\" / 30th March, 1964",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Ringo__Yep!_-_Live_At_The_BBC_For__From_Us_To_You_Say_The_Beatles____30th_March,_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Johnny Ringo",
+      "artist": "Crown the Empire",
+      "has_synced": true,
+      "path": "select/14_Johnny_Ringo_Crown_the_Empire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Johnny Ringo",
+      "artist": "Crown The Empire",
+      "has_synced": true,
+      "path": "select/15_Johnny_Ringo_Crown_The_Empire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "johnny ringo - acoustic",
+      "artist": "Crown the Empire",
+      "has_synced": true,
+      "path": "select/16_johnny_ringo_-_acoustic_Crown_the_Empire.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ringo Starr",
+      "artist": "Pinguini Tattici Nucleari",
+      "has_synced": true,
+      "path": "select/17_Ringo_Starr_Pinguini_Tattici_Nucleari.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ringo",
+      "artist": "Atmosphere",
+      "has_synced": true,
+      "path": "select/18_Ringo_Atmosphere.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RINGO",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_RINGO_ITZY.txt"
+    }
+  ]
+}
